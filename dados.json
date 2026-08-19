@@ -1,0 +1,1528 @@
+{
+  "exportedAt": "2026-08-17T17:57:48.271Z",
+  "months": [
+    [
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 1,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "vendas": 0,
+        "visitas": 19,
+        "propostas": 2
+      },
+      {
+        "vgv": 1450000,
+        "agCentral": 3,
+        "agOutras": 4,
+        "vgvAgVendidos": 1450000,
+        "vdAgVendidos": 1,
+        "vendas": 1,
+        "visitas": 23,
+        "propostas": 3
+      },
+      {
+        "vgv": 1450000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "visitas": 1
+      },
+      {
+        "vgv": 445000,
+        "agCentral": 2,
+        "agOutras": 5,
+        "vendas": 1,
+        "visitas": 5,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 2,
+        "vendas": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "propostas": 0,
+        "visitas": 3
+      },
+      {
+        "vgv": 570000,
+        "agCentral": 2,
+        "agOutras": 3,
+        "vgvAgVendidos": 570000,
+        "vdAgVendidos": 1,
+        "vendas": 1,
+        "visitas": 15,
+        "propostas": 5
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 2,
+        "agOutras": 2,
+        "visitas": 6,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 2,
+        "agOutras": 3,
+        "vgvAgVendidos": 445000,
+        "vdAgVendidos": 1,
+        "visitas": 9,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 3,
+        "agOutras": 3,
+        "vgvAgVendidos": 1450000,
+        "vdAgVendidos": 1,
+        "visitas": 4,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 5,
+        "agOutras": 5,
+        "vgvAgVendidos": 295000,
+        "vdAgVendidos": 1,
+        "visitas": 4,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 5,
+        "agOutras": 1,
+        "visitas": 13,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 8
+      },
+      {
+        "vgv": 295000,
+        "agCentral": 1,
+        "agOutras": 1,
+        "vendas": 1,
+        "visitas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 330000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 330000,
+        "vdAgVendidos": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 395000,
+        "agCentral": 1,
+        "agOutras": 0,
+        "vendas": 2,
+        "vgvAgVendidos": 200000,
+        "vdAgVendidos": 1,
+        "visitas": 7,
+        "propostas": 2
+      },
+      {
+        "vgv": 840000,
+        "agCentral": 2,
+        "agOutras": 2,
+        "vendas": 2,
+        "vgvAgVendidos": 840000,
+        "vdAgVendidos": 2,
+        "visitas": 10,
+        "propostas": 3
+      },
+      {
+        "vgv": 340000,
+        "agCentral": 3,
+        "agOutras": 0,
+        "vendas": 1,
+        "visitas": 8,
+        "propostas": 1
+      },
+      {
+        "vgv": 190000,
+        "agCentral": 1,
+        "agOutras": 5,
+        "vendas": 1,
+        "vgvAgVendidos": 195000,
+        "vdAgVendidos": 1,
+        "visitas": 10,
+        "propostas": 3
+      },
+      {
+        "vgv": 0,
+        "agCentral": 2,
+        "agOutras": 2,
+        "vgvAgVendidos": 206666.67,
+        "vdAgVendidos": 1,
+        "propostas": 1
+      },
+      {
+        "vgv": 900000,
+        "agCentral": 1,
+        "agOutras": 0,
+        "vendas": 2,
+        "vgvAgVendidos": 2100000,
+        "vdAgVendidos": 8,
+        "visitas": 4,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 2,
+        "agOutras": 0,
+        "visitas": 3
+      },
+      {
+        "vgv": 350000,
+        "agCentral": 2,
+        "agOutras": 7,
+        "vendas": 1,
+        "vgvAgVendidos": 350000,
+        "vdAgVendidos": 1,
+        "visitas": 6,
+        "propostas": 1
+      },
+      {
+        "vgv": 606666.67,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 3,
+        "visitas": 13,
+        "propostas": 5
+      },
+      {
+        "vgv": 0,
+        "agCentral": 3,
+        "agOutras": 9,
+        "vgvAgVendidos": 530000,
+        "vdAgVendidos": 1,
+        "visitas": 23,
+        "propostas": 7
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 1,
+        "vendas": 0,
+        "visitas": 3
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vgvAgVendidos": 190000,
+        "vdAgVendidos": 1,
+        "visitas": 3,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 0,
+        "vgvAgVendidos": 340000,
+        "vdAgVendidos": 1,
+        "visitas": 1,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 1107000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 5,
+        "vgvAgVendidos": 307000,
+        "vdAgVendidos": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 896680,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 2,
+        "vgvAgVendidos": 216680,
+        "vdAgVendidos": 1,
+        "visitas": 16,
+        "propostas": 3
+      },
+      {
+        "vgv": 592000,
+        "agCentral": 2,
+        "agOutras": 4,
+        "vendas": 2,
+        "vgvAgVendidos": 247000,
+        "vdAgVendidos": 1,
+        "visitas": 11,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 2,
+        "visitas": 10,
+        "propostas": 1
+      },
+      {
+        "vgv": 162000,
+        "agCentral": 0,
+        "agOutras": 2,
+        "vendas": 1,
+        "vgvAgVendidos": 320000,
+        "vdAgVendidos": 1,
+        "visitas": 14,
+        "propostas": 5
+      },
+      {
+        "vgv": 650000,
+        "agCentral": 5,
+        "agOutras": 5,
+        "vendas": 1,
+        "visitas": 2,
+        "propostas": 1
+      },
+      {
+        "vgv": 965000,
+        "agCentral": 2,
+        "agOutras": 10,
+        "vendas": 2,
+        "vgvAgVendidos": 884000,
+        "vdAgVendidos": 4,
+        "visitas": 18,
+        "propostas": 4
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 2,
+        "visitas": 9
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 4,
+        "vgvAgVendidos": 3092364.3,
+        "vdAgVendidos": 7,
+        "visitas": 4
+      },
+      {
+        "vgv": 3299364.3,
+        "agCentral": 7,
+        "agOutras": 6,
+        "vendas": 6,
+        "vgvAgVendidos": 1805000,
+        "vdAgVendidos": 2,
+        "visitas": 8,
+        "propostas": 9
+      },
+      {
+        "vgv": 305000,
+        "agCentral": 7,
+        "agOutras": 9,
+        "vendas": 1,
+        "vgvAgVendidos": 937500,
+        "vdAgVendidos": 1.5,
+        "visitas": 15,
+        "propostas": 4
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 15
+      },
+      {
+        "vgv": 605000,
+        "agCentral": 2,
+        "agOutras": 4,
+        "vendas": 2,
+        "propostas": 4
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 350000,
+        "agCentral": 2,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 350000,
+        "vdAgVendidos": 1,
+        "visitas": 3,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 200000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 172500,
+        "vdAgVendidos": 0.5
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 3,
+        "visitas": 5,
+        "propostas": 2
+      },
+      {
+        "vgv": 895000,
+        "agCentral": 2,
+        "agOutras": 1,
+        "vendas": 3,
+        "vgvAgVendidos": 1462500,
+        "vdAgVendidos": 4,
+        "visitas": 27,
+        "propostas": 4
+      },
+      {
+        "vgv": 0,
+        "agCentral": 6,
+        "agOutras": 1,
+        "visitas": 6,
+        "propostas": 1
+      },
+      {
+        "vgv": 1130000,
+        "agCentral": 0,
+        "agOutras": 2,
+        "vendas": 2,
+        "vgvAgVendidos": 1300000,
+        "vdAgVendidos": 2,
+        "visitas": 16,
+        "propostas": 5
+      },
+      {
+        "vgv": 0,
+        "agCentral": 6,
+        "agOutras": 5,
+        "visitas": 0,
+        "propostas": 0
+      },
+      {
+        "vgv": 597500,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 2,
+        "visitas": 4,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 0,
+        "visitas": 5,
+        "propostas": 1
+      },
+      {
+        "vgv": 251500,
+        "agCentral": 3,
+        "agOutras": 4,
+        "vendas": 1,
+        "vgvAgVendidos": 270000,
+        "vdAgVendidos": 1,
+        "visitas": 12,
+        "propostas": 3
+      },
+      {
+        "vgv": 367500,
+        "agCentral": 1,
+        "agOutras": 3,
+        "vendas": 2,
+        "vgvAgVendidos": 4177500,
+        "vdAgVendidos": 2,
+        "visitas": 11,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 7,
+        "agOutras": 10,
+        "vgvAgVendidos": 251500,
+        "vdAgVendidos": 1,
+        "visitas": 21,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 0
+      },
+      {
+        "vgv": 1020000,
+        "agCentral": 2,
+        "agOutras": 1,
+        "vendas": 3,
+        "visitas": 13,
+        "propostas": 4
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 0,
+        "visitas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vgvAgVendidos": 730000,
+        "vdAgVendidos": 4
+      },
+      {
+        "vgv": 3930000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vgvAgVendidos": 670000,
+        "vdAgVendidos": 1,
+        "propostas": 3,
+        "visitas": 13
+      },
+      {
+        "vgv": 1210000,
+        "agCentral": 3,
+        "agOutras": 2,
+        "vendas": 2,
+        "vgvAgVendidos": 310000,
+        "vdAgVendidos": 1,
+        "propostas": 3,
+        "visitas": 27
+      },
+      {
+        "vgv": 630000,
+        "agCentral": 1,
+        "agOutras": 2,
+        "vendas": 1,
+        "vgvAgVendidos": 430000,
+        "vdAgVendidos": 1,
+        "propostas": 1,
+        "visitas": 5
+      },
+      {
+        "vgv": 905000,
+        "agCentral": 2,
+        "agOutras": 3,
+        "vendas": 3,
+        "vgvAgVendidos": 939000,
+        "vdAgVendidos": 2,
+        "propostas": 3,
+        "visitas": 12
+      },
+      {
+        "vgv": 670000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 780000,
+        "vdAgVendidos": 1,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 3,
+        "vgvAgVendidos": 630000,
+        "vdAgVendidos": 1,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 2,
+        "agOutras": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 1
+      },
+      {
+        "vgv": 957500,
+        "agCentral": 0,
+        "agOutras": 4,
+        "vendas": 2,
+        "vgvAgVendidos": 1307500,
+        "vdAgVendidos": 3,
+        "visitas": 3
+      },
+      {
+        "vgv": 199500,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 580000,
+        "vdAgVendidos": 1,
+        "propostas": 4,
+        "visitas": 5
+      },
+      {
+        "vgv": 0,
+        "agCentral": 2,
+        "agOutras": 6,
+        "propostas": 1,
+        "visitas": 15
+      },
+      {
+        "vgv": 310000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "propostas": 1,
+        "visitas": 4
+      },
+      {
+        "vgv": 1174000,
+        "agCentral": 2,
+        "agOutras": 2,
+        "vendas": 3,
+        "vgvAgVendidos": 669500,
+        "vdAgVendidos": 2,
+        "propostas": 1,
+        "visitas": 5
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vgvAgVendidos": 380000,
+        "vdAgVendidos": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 640000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1
+      }
+    ],
+    [
+      {
+        "vgv": 775000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 775000,
+        "vdAgVendidos": 1,
+        "propostas": 4,
+        "visitas": 9
+      },
+      {
+        "vgv": 240000,
+        "agCentral": 0,
+        "agOutras": 2,
+        "vendas": 1,
+        "vgvAgVendidos": 220000,
+        "vdAgVendidos": 1,
+        "visitas": 22
+      },
+      {
+        "vgv": 454016.41,
+        "agCentral": 1,
+        "agOutras": 2,
+        "vendas": 1,
+        "propostas": 3,
+        "visitas": 3
+      },
+      {
+        "vgv": 1020000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 2,
+        "vgvAgVendidos": 1020000,
+        "vdAgVendidos": 2,
+        "propostas": 5,
+        "visitas": 13
+      },
+      {
+        "vgv": 620000,
+        "agCentral": 2,
+        "agOutras": 2,
+        "vendas": 2,
+        "vgvAgVendidos": 400000,
+        "vdAgVendidos": 1,
+        "propostas": 1
+      },
+      {
+        "vgv": 325000,
+        "agCentral": 1,
+        "agOutras": 1,
+        "vendas": 1,
+        "propostas": 3
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 1
+      },
+      {
+        "vgv": 450000,
+        "agCentral": 0,
+        "agOutras": 2,
+        "vendas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 3,
+        "agOutras": 2,
+        "vgvAgVendidos": 454016.41,
+        "vdAgVendidos": 1,
+        "visitas": 1
+      },
+      {
+        "vgv": 2,
+        "agCentral": 8,
+        "agOutras": 5,
+        "propostas": 1,
+        "visitas": 5
+      },
+      {
+        "vgv": 650000,
+        "agCentral": 5,
+        "agOutras": 5,
+        "vendas": 1,
+        "vgvAgVendidos": 1825000,
+        "vdAgVendidos": 5,
+        "propostas": 3,
+        "visitas": 12
+      },
+      {
+        "vgv": 215000,
+        "agCentral": 1,
+        "agOutras": 0,
+        "vendas": 1,
+        "propostas": 1,
+        "visitas": 2
+      },
+      {
+        "vgv": 0,
+        "agCentral": 1,
+        "agOutras": 4,
+        "propostas": 2,
+        "visitas": 5
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vgvAgVendidos": 325000,
+        "vdAgVendidos": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "agCentral": 2,
+        "agOutras": 3,
+        "visitas": 18,
+        "propostas": 3
+      },
+      {
+        "vgv": 865000,
+        "agCentral": 1,
+        "agOutras": 3,
+        "vendas": 2,
+        "vgvAgVendidos": 990000,
+        "vdAgVendidos": 2,
+        "visitas": 13,
+        "propostas": 3
+      },
+      {
+        "vgv": 340000,
+        "agCentral": 1,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 655000,
+        "vdAgVendidos": 2,
+        "visitas": 4,
+        "propostas": 1
+      },
+      {
+        "vgv": 315000,
+        "agCentral": 0,
+        "agOutras": 6,
+        "vendas": 1,
+        "vgvAgVendidos": 650000,
+        "vdAgVendidos": 1,
+        "visitas": 7,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 1
+      },
+      {
+        "vgv": 850000,
+        "agCentral": 2,
+        "agOutras": 2,
+        "vendas": 1,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "agCentral": 6,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 3
+      },
+      {
+        "vgv": 945000,
+        "agCentral": 2,
+        "agOutras": 1,
+        "vendas": 1,
+        "vgvAgVendidos": 1310000,
+        "vdAgVendidos": 2,
+        "visitas": 2,
+        "propostas": 1
+      },
+      {
+        "vgv": 420000,
+        "agCentral": 2,
+        "agOutras": 1,
+        "vendas": 1,
+        "vgvAgVendidos": 420000,
+        "vdAgVendidos": 1,
+        "visitas": 9,
+        "propostas": 1
+      },
+      {
+        "vgv": 745000,
+        "agCentral": 4,
+        "agOutras": 4,
+        "vendas": 2,
+        "vgvAgVendidos": 745000,
+        "vdAgVendidos": 2,
+        "visitas": 20,
+        "propostas": 3
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "visitas": 1,
+        "propostas": 0
+      },
+      {
+        "vgv": 1140000,
+        "agCentral": 4,
+        "agOutras": 1,
+        "vendas": 2,
+        "vgvAgVendidos": 850000,
+        "vdAgVendidos": 1,
+        "visitas": 11,
+        "propostas": 3
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 2800000,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "vgvAgVendidos": 2800000,
+        "vdAgVendidos": 1
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 1,
+        "vendas": 0,
+        "visitas": 5,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 470000,
+        "vdAgVendidos": 1,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 16,
+        "propostas": 2
+      },
+      {
+        "vgv": 340000,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 3,
+        "agOutras": 0,
+        "vendas": 1,
+        "visitas": 8,
+        "propostas": 1
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 3,
+        "vendas": 0,
+        "visitas": 7,
+        "propostas": 0
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 525000,
+        "vdAgVendidos": 1,
+        "agCentral": 1,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 2,
+        "propostas": 0
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 745000,
+        "vdAgVendidos": 2,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 6,
+        "propostas": 3
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 2,
+        "vendas": 0,
+        "visitas": 1,
+        "propostas": 0
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 0,
+        "propostas": 0
+      },
+      {
+        "vgv": 525000,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 2,
+        "vendas": 1,
+        "visitas": 0,
+        "propostas": 0
+      },
+      {
+        "vgv": 405000,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 1,
+        "visitas": 7,
+        "propostas": 1
+      },
+      {
+        "vgv": 405000,
+        "vgvAgVendidos": 664000,
+        "vdAgVendidos": 3,
+        "agCentral": 6,
+        "agOutras": 3,
+        "vendas": 2,
+        "visitas": 20,
+        "propostas": 7
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 2,
+        "propostas": 0
+      },
+      {
+        "vgv": 729000,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 1,
+        "agOutras": 1,
+        "vendas": 2,
+        "visitas": 2,
+        "propostas": 2
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 0,
+        "propostas": 0
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 0,
+        "propostas": 0
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 0,
+        "propostas": 0
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 0,
+        "propostas": 0
+      },
+      {
+        "vgv": 0,
+        "vgvAgVendidos": 0,
+        "vdAgVendidos": 0,
+        "agCentral": 0,
+        "agOutras": 0,
+        "vendas": 0,
+        "visitas": 0,
+        "propostas": 0
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ],
+    [
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      },
+      {
+        "vgv": 0,
+        "agCentral": 0,
+        "agOutras": 0
+      }
+    ]
+  ]
+}
